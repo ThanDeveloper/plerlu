@@ -1,5 +1,4 @@
+POST /validate-number
 {
-    {
-      "number": "6287712933029"
-    }
+  "phoneNumber": "6281234567890"
 }
