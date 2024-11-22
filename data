@@ -1,4 +1,0 @@
-POST /validate-number
-{
-  "phoneNumber": "6281234567890"
-}
